@@ -14,9 +14,21 @@ h1 {
     width: 100%;
     height: 100px;
     background-color: #641220;
-    position: absolute;
 }
 
 .header h1 {
-    margin: 20px;
+    margin: 0;
+    padding: 20px;
+}
+
+.diagram {
+    width: 50%;
+    float: left;
+}
+
+.desc {
+    width: 50%;
+    background-color: #85182A;
+    height: 100%;
+    float: left;
 }
