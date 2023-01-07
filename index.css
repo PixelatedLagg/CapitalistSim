@@ -10,6 +10,17 @@ h1 {
     color: white;
 }
 
+h2 {
+    font-family: 'Ubuntu Mono', monospace;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+.desc p {
+    text-align: center;
+}
+
 .header {
     width: 100%;
     height: 100px;
