@@ -18,7 +18,13 @@ h2 {
 }
 
 .desc p {
+    font-family: 'Ubuntu Mono', monospace;
+    font-size: 20px;
+    color: white;
     text-align: center;
+    margin-left: 30px;
+    margin-right: 30px;
+    line-height: 25px;
 }
 
 .header {
